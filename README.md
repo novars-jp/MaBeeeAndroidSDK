@@ -56,7 +56,7 @@ dependencies {
 
 ## クラスの説明
 
-- ドキュメント準備中
-- App
-- Device
-- ScanActivity
+- [JavaDoc](http://developer.novars.jp/mabeee/android/javadoc/)
+- [App](http://developer.novars.jp/mabeee/android/javadoc/jp/novars/mabeee/sdk/App.html)
+- [Device](http://developer.novars.jp/mabeee/android/javadoc/jp/novars/mabeee/sdk/Device.html)
+- [ScanActivity](http://developer.novars.jp/mabeee/android/javadoc/jp/novars/mabeee/sdk/ui/ScanActivity.html)
