@@ -50,7 +50,7 @@ repositories {
 
 ```gradle
 dependencies {
-    compile 'jp.novars.mabeee.sdk:sdk:1.2'
+    compile 'jp.novars.mabeee.sdk:sdk:1.3'
 }
 ```
 
