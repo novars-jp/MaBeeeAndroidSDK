@@ -44,13 +44,13 @@ AndroidStudioのbuild.gradeに以下を追加するとインポートされま�
 
 ```gradle
 repositories {
-    maven { url 'http://raw.github.com/novars-jp/MaBeeeAndroidSDK/master/repository/' }
+    maven { url 'https://raw.github.com/novars-jp/MaBeeeAndroidSDK/master/repository/' }
 }
 ```
 
 ```gradle
 dependencies {
-    compile 'jp.novars.mabeee.sdk:sdk:1.3'
+    compile 'jp.novars.mabeee.sdk:sdk:1.5.1'
 }
 ```
 
